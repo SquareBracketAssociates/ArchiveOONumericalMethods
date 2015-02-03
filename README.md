@@ -1,8 +1,8 @@
 This archive contains the book of Didier Besset in its original form. 
 
-One folder contains the original files.
+The `OONumericalMethodsAsGiven` folder contains the original files.
 
-The other the modified version to create a new pdf version of these files. 
+The `NumericalMethods` folder contains a version fixed to rebuild the book using a modern LaTeX toolchain.
 
 Based on it we prepared a new version without the Java code but it is hosted in another repository.
 
